@@ -5,3 +5,4 @@
   - ch4.Get, Post, Put, Delete, Response, ObejctMapper
   - ch5.Ioc, DI, AOP, ObjectMapper
   - ch6.validation, filter, interceptor, async
+  - ch7.Rest Template, Naver 지역 API 연동
